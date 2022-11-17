@@ -1,0 +1,6 @@
+name: NukerChecker
+src-namespace-prefix: phuongaz\nukerchecker
+main: phuongaz\nukerchecker\Main
+version: 1.0.0
+api: 4.0.0
+description: "A plugin to check if a player is using nuker"
